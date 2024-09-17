@@ -21,6 +21,15 @@ export default function Page() {
         <div className="flex items-center justify-between">
           <div className="flex-1 space-y-1.5">
             <h1 className="text-2xl font-bold">{RESUME_DATA.name}</h1>
+            <Section>
+              <div className="flex flex-wrap gap-1">
+                <Badge>
+                  <a href="mailto:dheerajrvithalkar@gmail.com">
+                    <h1>Hire me!</h1>
+                  </a>
+                </Badge>
+              </div>
+            </Section>
             <p className="max-w-md text-pretty font-mono text-sm text-muted-foreground print:text-[12px]">
               {RESUME_DATA.about}
             </p>
@@ -114,7 +123,7 @@ export default function Page() {
                         {work.badges.map((badge) => (
                           <Badge
                             variant="secondary"
-                            className="align-middle text-xs print:text-[8px] print:leading-tight print:px-1 print:py-0.5"
+                            className="align-middle text-xs print:px-1 print:py-0.5 print:text-[8px] print:leading-tight"
                             key={badge}
                           >
                             {badge}
