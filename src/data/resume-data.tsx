@@ -14,7 +14,7 @@ export const RESUME_DATA = {
     summary:
     "As a Full Stack Engineer, I specialize in taking products from concept to launch. Currently, I work mostly with TypeScript, React and Node.js using the Next.js Framework. I also work with GoLang, Rust and Solana, trying to make a difference in the decentralized world",
   avatarUrl: "https://avatars.githubusercontent.com/drjvtlkr",
-  personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "https://drjvtlkr.dev",
   contact: {
     email: "dheerajrvithalkar@gmail.com",
     tel: "+916362593889",
