@@ -5,11 +5,8 @@
         <rect x="77.743" y="105.266" width="951.227" height="893.383" style="fill:rgb(24,24,27);"/>
     </g>
     <g transform="matrix(1.20097,0,0,1.20097,-115.923,438.335)">
-        <!-- D Letter -->
         <g transform="matrix(1.02,0,0,1.02,247.171,-11.0087)">
             <path d="M200,100 Q400,150 400,400 Q400,650 200,700 L100,700 L100,100 L200,100 Z M200,200 L200,600 Q320,550 320,400 Q320,250 200,200 Z" style="fill:white;fill-rule:nonzero;"/>
-        </g>
-        <!-- J Letter -->
         <g transform="matrix(1,0,0,1,-260.542,-13.165)">
             <path d="M600,100 L600,600 Q600,750 450,750 Q350,750 300,700 L350,650 Q400,700 450,700 Q500,700 500,600 L500,100 L600,100 Z" style="fill:white;fill-rule:nonzero;"/>
         </g>
