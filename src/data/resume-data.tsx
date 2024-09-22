@@ -82,6 +82,10 @@ export const RESUME_DATA = {
     "GoLang",
     "Rust",
     "Solana",
+    "Supabase",
+    "Vercel",
+    "Hosting",
+    "CI/CD"
   ],
   projects: [
     {
