@@ -149,7 +149,7 @@ export const RESUME_DATA = {
     },
     {
       title: "CV",
-      techStack: ["Personal Project", "Next.js"],
+      techStack: ["Personal Project", "Next.js", "TypeScript"],
       description:
         "Personal website and blog. Built with Next.js",
       logo: DJLogo,
@@ -167,6 +167,17 @@ export const RESUME_DATA = {
       link: {
         label: "github.com",
         href: "https://github.com/drjvtlkr/solana-firstInstallation",
+      },
+    },
+    {
+      title: "Browser based todo application",
+      techStack: ["Side Project", "Next.js", "Supabase", "TypeScript"],
+      description:
+        "Learnt and implemented Supabase using PostgreSQL for DataBase",
+      logo: DJLogo,
+      link: {
+        label: "github.com",
+        href: "https://github.com/drjvtlkr/todo-temp",
       },
     },
   ],
