@@ -109,7 +109,7 @@ export const RESUME_DATA = {
       techStack: [
         "Lead Fullstack Engineer",
         "JavaScript",
-        "React",
+        "TypeScript",
         "Node.js",
         "Express.js",
         "MongoDB",
