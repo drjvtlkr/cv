@@ -181,8 +181,18 @@ export const RESUME_DATA = {
       logo: DJLogo,
       link: {
         label: "github.com",
-        href: "https://github.com/drjvtlkr/todo-temp",
+        href: "https://todo-drjvtlkr.vercel.app/",
       },
     },
+    {
+      title:"Next-Auth",
+      techStack:["Side Project", "Next.js", "TypeScript", "Shadcn", "Zod"],
+      description:"Implemented next-auth using Auth.js v-5 with the cookie strategy, without using any DataBase",
+      logo:DJLogo,
+      link:{
+        label:"Production",
+        href:"https://next-auth-using-cookies.vercel.app/"
+      }
+    }
   ],
 } as const;
