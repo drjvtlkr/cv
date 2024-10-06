@@ -159,7 +159,7 @@ export const RESUME_DATA = {
       logo: DJLogo,
       link: {
         label: "github.com",
-        href: "https://drjvtlkr-cv.vercel.app/",
+        href: "https://drjvtlkr.vercel.app/",
       },
     },
     {
@@ -192,6 +192,16 @@ export const RESUME_DATA = {
       link:{
         label:"Production",
         href:"https://next-auth-using-cookies.vercel.app/"
+      }
+    },
+    {
+      title:"HTTP server in Golang",
+      techStack:["Side Project", "Golang", "HTTP Server"],
+      description:"Created a simple HTTP server using Golang. Spinning up the server locally and adding github workflow",
+      logo:DJLogo,
+      link:{
+        label:"github.com",
+        href:"https://github.com/drjvtlkr/http-server-go"
       }
     }
   ],
