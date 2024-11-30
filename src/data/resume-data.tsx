@@ -52,18 +52,18 @@ export const RESUME_DATA = {
       title: "Frontend Engineer -> Fullstack Engineer",
       logo: OrbitLogo,
       start: "Aug 2023",
-      end: null,
+      end: "Present",
       description:
         "Creating Web applications serving over thousands of users. Technologies: React, JavaScript, Node.js, Next.js, Tailwind",
     },
     {
-      company: "Freelance",
+      company: "Docyard Labs",
       link: "https://alkaline-admin.vercel.app",
       badges: ["Remote"],
-      title: "Lead Fullstack Engineer",
+      title: "Freelance Lead Fullstack Engineer",
       logo: DJLogo,
       start: "June 2024",
-      end: null,
+      end: "Present",
       description:
         "Lead a team of Fullstack engineer and Mobile Application Developers. Technologies: React, TypeScript, Node.js, Next.js, Shadcn.",
     },
@@ -147,19 +147,41 @@ export const RESUME_DATA = {
         "Online Teaching and Learning platfrom that can support over thousand users",
       logo: DJLogo,
       link: {
-        label: "theedmentor.dev",
+        label: "theedmentor.com",
         href: "https://theedmentor.com/",
+      },
+    },
+    {
+      title: "DePanda",
+      techStack: ["JavaScript", "React", "Tailwind", ],
+      description:
+        "Online Teaching and Learning platfrom that can support over thousand users",
+      logo: DJLogo,
+      link: {
+        label: "depanda.in",
+        href: "http://depanda.in/",
       },
     },
     {
       title: "CV",
       techStack: ["Personal Project", "Next.js", "TypeScript"],
       description:
+        "Personal website. Built with Next.js",
+      logo: DJLogo,
+      link: {
+        label: "cv.drjvtlkr.com",
+        href: "https://cv.drjvtlkr.com/",
+      },
+    },
+    {
+      title: "Portfolio",
+      techStack: ["Personal Project", "Next.js", "TypeScript"],
+      description:
         "Personal website and blog. Built with Next.js",
       logo: DJLogo,
       link: {
-        label: "github.com",
-        href: "https://drjvtlkr.vercel.app/",
+        label: "drjvtlkr.com",
+        href: "https://drjvtlkr.com/",
       },
     },
     {
